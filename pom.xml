@@ -26,6 +26,10 @@
             <artifactId>storm-core</artifactId>
             <version>1.1.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.apache.storm</groupId>
+            <artifactId>storm-hdfs</artifactId>
+            <version>1.1.0</version>
+        </dependency>
     </dependencies>
 </project>
